@@ -1,0 +1,6 @@
+{
+  "name": "TKAD Card Photo Generator",
+  "description": "Aplikasi untuk memasang foto ke kartu login TKAD secara otomatis menggunakan OCR dan pencocokan nama file.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
